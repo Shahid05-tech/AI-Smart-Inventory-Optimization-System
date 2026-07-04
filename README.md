@@ -1,5 +1,5 @@
-<h2 align="center">System Architecture</h2>
+## 🏗️ System Architecture
 
 <p align="center">
-  <img src="docs/architecture-diagram.png" width="900">
+  <img src="docs/architecture-diagram.png" alt="System Architecture" width="1000">
 </p>
