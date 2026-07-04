@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Node
+frontend/node_modules/
+frontend/dist/
+
+# Machine Learning Models
+backend/models/*.pkl
+backend/models/*.joblib
+
+# Large datasets
+backend/scripts/*.csv
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Reports
+backend/reports/
+
+# OS
+.DS_Store
+Thumbs.db
