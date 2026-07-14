@@ -1,7 +1,7 @@
 # 🏗️ System Architecture
 
 <p align="center">
-  <img src="docs/architecture-diagram.png" alt="Architecture Diagram" width="1000">
+  <img src="docs/architecture-diagram (2).png" alt="Architecture Diagram" width="1000">
 </p>
 
 ---
