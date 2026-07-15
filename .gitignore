@@ -23,3 +23,30 @@ backend/reports/
 # OS
 .DS_Store
 Thumbs.db
+
+# Visual Studio
+.vs/
+.vscode/
+
+# Build folders
+bin/
+obj/
+
+# User files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Logs
+*.log
+
+# Packages
+packages/
+
+# Environment
+.env
+
+# OS files
+.DS_Store
+Thumbs.db

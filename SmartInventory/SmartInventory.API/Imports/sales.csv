@@ -1,0 +1,6 @@
+﻿namespace SmartInventory.API.Imports
+{
+    public class sales
+    {
+    }
+}
