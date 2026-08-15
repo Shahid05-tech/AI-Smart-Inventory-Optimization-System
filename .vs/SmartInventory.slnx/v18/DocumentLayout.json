@@ -1,0 +1,788 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Documents\\inventory-optimization-system\\SmartInventory\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{84062B1B-BACE-43AC-4711-275C7D83724E}|SmartInventory.API\\SmartInventory.API.csproj|c:\\users\\administrator\\documents\\inventory-optimization-system\\smartinventory\\smartinventory.api\\smartinventory.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{84062B1B-BACE-43AC-4711-275C7D83724E}|SmartInventory.API\\SmartInventory.API.csproj|solutionrelative:smartinventory.api\\smartinventory.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84062B1B-BACE-43AC-4711-275C7D83724E}|SmartInventory.API\\SmartInventory.API.csproj|c:\\users\\administrator\\documents\\inventory-optimization-system\\smartinventory\\smartinventory.api\\interfaces\\iinventoryoptimizationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84062B1B-BACE-43AC-4711-275C7D83724E}|SmartInventory.API\\SmartInventory.API.csproj|solutionrelative:smartinventory.api\\interfaces\\iinventoryoptimizationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84062B1B-BACE-43AC-4711-275C7D83724E}|SmartInventory.API\\SmartInventory.API.csproj|c:\\users\\administrator\\documents\\inventory-optimization-system\\smartinventory\\smartinventory.api\\interfaces\\ifeatureengineeringservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84062B1B-BACE-43AC-4711-275C7D83724E}|SmartInventory.API\\SmartInventory.API.csproj|solutionrelative:smartinventory.api\\interfaces\\ifeatureengineeringservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84062B1B-BACE-43AC-4711-275C7D83724E}|SmartInventory.API\\SmartInventory.API.csproj|c:\\users\\administrator\\documents\\inventory-optimization-system\\smartinventory\\smartinventory.api\\interfaces\\idatacleaningservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84062B1B-BACE-43AC-4711-275C7D83724E}|SmartInventory.API\\SmartInventory.API.csproj|solutionrelative:smartinventory.api\\interfaces\\idatacleaningservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84062B1B-BACE-43AC-4711-275C7D83724E}|SmartInventory.API\\SmartInventory.API.csproj|c:\\users\\administrator\\documents\\inventory-optimization-system\\smartinventory\\smartinventory.api\\controllers\\importcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84062B1B-BACE-43AC-4711-275C7D83724E}|SmartInventory.API\\SmartInventory.API.csproj|solutionrelative:smartinventory.api\\controllers\\importcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84062B1B-BACE-43AC-4711-275C7D83724E}|SmartInventory.API\\SmartInventory.API.csproj|c:\\users\\administrator\\documents\\inventory-optimization-system\\smartinventory\\smartinventory.api\\controllers\\inventoryoptimizationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84062B1B-BACE-43AC-4711-275C7D83724E}|SmartInventory.API\\SmartInventory.API.csproj|solutionrelative:smartinventory.api\\controllers\\inventoryoptimizationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84062B1B-BACE-43AC-4711-275C7D83724E}|SmartInventory.API\\SmartInventory.API.csproj|c:\\users\\administrator\\documents\\inventory-optimization-system\\smartinventory\\smartinventory.api\\controllers\\featureengineeringcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84062B1B-BACE-43AC-4711-275C7D83724E}|SmartInventory.API\\SmartInventory.API.csproj|solutionrelative:smartinventory.api\\controllers\\featureengineeringcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84062B1B-BACE-43AC-4711-275C7D83724E}|SmartInventory.API\\SmartInventory.API.csproj|c:\\users\\administrator\\documents\\inventory-optimization-system\\smartinventory\\smartinventory.api\\controllers\\datacleaningcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84062B1B-BACE-43AC-4711-275C7D83724E}|SmartInventory.API\\SmartInventory.API.csproj|solutionrelative:smartinventory.api\\controllers\\datacleaningcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84062B1B-BACE-43AC-4711-275C7D83724E}|SmartInventory.API\\SmartInventory.API.csproj|c:\\users\\administrator\\documents\\inventory-optimization-system\\smartinventory\\smartinventory.api\\services\\inventoryoptimizationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84062B1B-BACE-43AC-4711-275C7D83724E}|SmartInventory.API\\SmartInventory.API.csproj|solutionrelative:smartinventory.api\\services\\inventoryoptimizationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84062B1B-BACE-43AC-4711-275C7D83724E}|SmartInventory.API\\SmartInventory.API.csproj|c:\\users\\administrator\\documents\\inventory-optimization-system\\smartinventory\\smartinventory.api\\services\\featureengineeringservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84062B1B-BACE-43AC-4711-275C7D83724E}|SmartInventory.API\\SmartInventory.API.csproj|solutionrelative:smartinventory.api\\services\\featureengineeringservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84062B1B-BACE-43AC-4711-275C7D83724E}|SmartInventory.API\\SmartInventory.API.csproj|c:\\users\\administrator\\documents\\inventory-optimization-system\\smartinventory\\smartinventory.api\\services\\datacleaningservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84062B1B-BACE-43AC-4711-275C7D83724E}|SmartInventory.API\\SmartInventory.API.csproj|solutionrelative:smartinventory.api\\services\\datacleaningservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84062B1B-BACE-43AC-4711-275C7D83724E}|SmartInventory.API\\SmartInventory.API.csproj|c:\\users\\administrator\\documents\\inventory-optimization-system\\smartinventory\\smartinventory.api\\services\\csvimportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84062B1B-BACE-43AC-4711-275C7D83724E}|SmartInventory.API\\SmartInventory.API.csproj|solutionrelative:smartinventory.api\\services\\csvimportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84062B1B-BACE-43AC-4711-275C7D83724E}|SmartInventory.API\\SmartInventory.API.csproj|c:\\users\\administrator\\documents\\inventory-optimization-system\\smartinventory\\smartinventory.api\\interfaces\\icsvimportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84062B1B-BACE-43AC-4711-275C7D83724E}|SmartInventory.API\\SmartInventory.API.csproj|solutionrelative:smartinventory.api\\interfaces\\icsvimportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84062B1B-BACE-43AC-4711-275C7D83724E}|SmartInventory.API\\SmartInventory.API.csproj|c:\\users\\administrator\\documents\\inventory-optimization-system\\smartinventory\\smartinventory.api\\dtos\\inventoryrecommendationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84062B1B-BACE-43AC-4711-275C7D83724E}|SmartInventory.API\\SmartInventory.API.csproj|solutionrelative:smartinventory.api\\dtos\\inventoryrecommendationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84062B1B-BACE-43AC-4711-275C7D83724E}|SmartInventory.API\\SmartInventory.API.csproj|c:\\users\\administrator\\documents\\inventory-optimization-system\\smartinventory\\smartinventory.api\\dtos\\featureengineeringdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84062B1B-BACE-43AC-4711-275C7D83724E}|SmartInventory.API\\SmartInventory.API.csproj|solutionrelative:smartinventory.api\\dtos\\featureengineeringdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84062B1B-BACE-43AC-4711-275C7D83724E}|SmartInventory.API\\SmartInventory.API.csproj|c:\\users\\administrator\\documents\\inventory-optimization-system\\smartinventory\\smartinventory.api\\dtos\\cleaningresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84062B1B-BACE-43AC-4711-275C7D83724E}|SmartInventory.API\\SmartInventory.API.csproj|solutionrelative:smartinventory.api\\dtos\\cleaningresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84062B1B-BACE-43AC-4711-275C7D83724E}|SmartInventory.API\\SmartInventory.API.csproj|c:\\users\\administrator\\documents\\inventory-optimization-system\\smartinventory\\smartinventory.api\\dtos\\salescsvdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84062B1B-BACE-43AC-4711-275C7D83724E}|SmartInventory.API\\SmartInventory.API.csproj|solutionrelative:smartinventory.api\\dtos\\salescsvdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84062B1B-BACE-43AC-4711-275C7D83724E}|SmartInventory.API\\SmartInventory.API.csproj|c:\\users\\administrator\\documents\\inventory-optimization-system\\smartinventory\\smartinventory.api\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84062B1B-BACE-43AC-4711-275C7D83724E}|SmartInventory.API\\SmartInventory.API.csproj|solutionrelative:smartinventory.api\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84062B1B-BACE-43AC-4711-275C7D83724E}|SmartInventory.API\\SmartInventory.API.csproj|c:\\users\\administrator\\documents\\inventory-optimization-system\\smartinventory\\smartinventory.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84062B1B-BACE-43AC-4711-275C7D83724E}|SmartInventory.API\\SmartInventory.API.csproj|solutionrelative:smartinventory.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84062B1B-BACE-43AC-4711-275C7D83724E}|SmartInventory.API\\SmartInventory.API.csproj|c:\\users\\administrator\\documents\\inventory-optimization-system\\smartinventory\\smartinventory.api\\interfaces\\idashboardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84062B1B-BACE-43AC-4711-275C7D83724E}|SmartInventory.API\\SmartInventory.API.csproj|solutionrelative:smartinventory.api\\interfaces\\idashboardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84062B1B-BACE-43AC-4711-275C7D83724E}|SmartInventory.API\\SmartInventory.API.csproj|c:\\users\\administrator\\documents\\inventory-optimization-system\\smartinventory\\smartinventory.api\\dtos\\salesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84062B1B-BACE-43AC-4711-275C7D83724E}|SmartInventory.API\\SmartInventory.API.csproj|solutionrelative:smartinventory.api\\dtos\\salesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{089100B1-113F-4E66-888A-E83F3999EAFD}|Solution Items{089100B1-113F-4E66-888A-E83F3999EAFD}|C:\\Users\\Administrator\\Documents\\inventory-optimization-system\\SmartInventory\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{089100B1-113F-4E66-888A-E83F3999EAFD}|Solution Items{089100B1-113F-4E66-888A-E83F3999EAFD}|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84062B1B-BACE-43AC-4711-275C7D83724E}|SmartInventory.API\\SmartInventory.API.csproj|c:\\users\\administrator\\documents\\inventory-optimization-system\\smartinventory\\smartinventory.api\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84062B1B-BACE-43AC-4711-275C7D83724E}|SmartInventory.API\\SmartInventory.API.csproj|solutionrelative:smartinventory.api\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84062B1B-BACE-43AC-4711-275C7D83724E}|SmartInventory.API\\SmartInventory.API.csproj|c:\\users\\administrator\\documents\\inventory-optimization-system\\smartinventory\\smartinventory.api\\services\\dashboardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84062B1B-BACE-43AC-4711-275C7D83724E}|SmartInventory.API\\SmartInventory.API.csproj|solutionrelative:smartinventory.api\\services\\dashboardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84062B1B-BACE-43AC-4711-275C7D83724E}|SmartInventory.API\\SmartInventory.API.csproj|c:\\users\\administrator\\documents\\inventory-optimization-system\\smartinventory\\smartinventory.api\\dtos\\dashboarddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84062B1B-BACE-43AC-4711-275C7D83724E}|SmartInventory.API\\SmartInventory.API.csproj|solutionrelative:smartinventory.api\\dtos\\dashboarddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84062B1B-BACE-43AC-4711-275C7D83724E}|SmartInventory.API\\SmartInventory.API.csproj|c:\\users\\administrator\\documents\\inventory-optimization-system\\smartinventory\\smartinventory.api\\seed\\databaseseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84062B1B-BACE-43AC-4711-275C7D83724E}|SmartInventory.API\\SmartInventory.API.csproj|solutionrelative:smartinventory.api\\seed\\databaseseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84062B1B-BACE-43AC-4711-275C7D83724E}|SmartInventory.API\\SmartInventory.API.csproj|c:\\users\\administrator\\documents\\inventory-optimization-system\\smartinventory\\smartinventory.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84062B1B-BACE-43AC-4711-275C7D83724E}|SmartInventory.API\\SmartInventory.API.csproj|solutionrelative:smartinventory.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84062B1B-BACE-43AC-4711-275C7D83724E}|SmartInventory.API\\SmartInventory.API.csproj|c:\\users\\administrator\\documents\\inventory-optimization-system\\smartinventory\\smartinventory.api\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84062B1B-BACE-43AC-4711-275C7D83724E}|SmartInventory.API\\SmartInventory.API.csproj|solutionrelative:smartinventory.api\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84062B1B-BACE-43AC-4711-275C7D83724E}|SmartInventory.API\\SmartInventory.API.csproj|c:\\users\\administrator\\documents\\inventory-optimization-system\\smartinventory\\smartinventory.api\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84062B1B-BACE-43AC-4711-275C7D83724E}|SmartInventory.API\\SmartInventory.API.csproj|solutionrelative:smartinventory.api\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84062B1B-BACE-43AC-4711-275C7D83724E}|SmartInventory.API\\SmartInventory.API.csproj|c:\\users\\administrator\\documents\\inventory-optimization-system\\smartinventory\\smartinventory.api\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84062B1B-BACE-43AC-4711-275C7D83724E}|SmartInventory.API\\SmartInventory.API.csproj|solutionrelative:smartinventory.api\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84062B1B-BACE-43AC-4711-275C7D83724E}|SmartInventory.API\\SmartInventory.API.csproj|c:\\users\\administrator\\documents\\inventory-optimization-system\\smartinventory\\smartinventory.api\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84062B1B-BACE-43AC-4711-275C7D83724E}|SmartInventory.API\\SmartInventory.API.csproj|solutionrelative:smartinventory.api\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84062B1B-BACE-43AC-4711-275C7D83724E}|SmartInventory.API\\SmartInventory.API.csproj|c:\\users\\administrator\\documents\\inventory-optimization-system\\smartinventory\\smartinventory.api\\validators\\productvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84062B1B-BACE-43AC-4711-275C7D83724E}|SmartInventory.API\\SmartInventory.API.csproj|solutionrelative:smartinventory.api\\validators\\productvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84062B1B-BACE-43AC-4711-275C7D83724E}|SmartInventory.API\\SmartInventory.API.csproj|c:\\users\\administrator\\documents\\inventory-optimization-system\\smartinventory\\smartinventory.api\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84062B1B-BACE-43AC-4711-275C7D83724E}|SmartInventory.API\\SmartInventory.API.csproj|solutionrelative:smartinventory.api\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84062B1B-BACE-43AC-4711-275C7D83724E}|SmartInventory.API\\SmartInventory.API.csproj|c:\\users\\administrator\\documents\\inventory-optimization-system\\smartinventory\\smartinventory.api\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84062B1B-BACE-43AC-4711-275C7D83724E}|SmartInventory.API\\SmartInventory.API.csproj|solutionrelative:smartinventory.api\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84062B1B-BACE-43AC-4711-275C7D83724E}|SmartInventory.API\\SmartInventory.API.csproj|c:\\users\\administrator\\documents\\inventory-optimization-system\\smartinventory\\smartinventory.api\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84062B1B-BACE-43AC-4711-275C7D83724E}|SmartInventory.API\\SmartInventory.API.csproj|solutionrelative:smartinventory.api\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84062B1B-BACE-43AC-4711-275C7D83724E}|SmartInventory.API\\SmartInventory.API.csproj|c:\\users\\administrator\\documents\\inventory-optimization-system\\smartinventory\\smartinventory.api\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84062B1B-BACE-43AC-4711-275C7D83724E}|SmartInventory.API\\SmartInventory.API.csproj|solutionrelative:smartinventory.api\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84062B1B-BACE-43AC-4711-275C7D83724E}|SmartInventory.API\\SmartInventory.API.csproj|c:\\users\\administrator\\documents\\inventory-optimization-system\\smartinventory\\smartinventory.api\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84062B1B-BACE-43AC-4711-275C7D83724E}|SmartInventory.API\\SmartInventory.API.csproj|solutionrelative:smartinventory.api\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84062B1B-BACE-43AC-4711-275C7D83724E}|SmartInventory.API\\SmartInventory.API.csproj|c:\\users\\administrator\\documents\\inventory-optimization-system\\smartinventory\\smartinventory.api\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84062B1B-BACE-43AC-4711-275C7D83724E}|SmartInventory.API\\SmartInventory.API.csproj|solutionrelative:smartinventory.api\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84062B1B-BACE-43AC-4711-275C7D83724E}|SmartInventory.API\\SmartInventory.API.csproj|c:\\users\\administrator\\documents\\inventory-optimization-system\\smartinventory\\smartinventory.api\\models\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84062B1B-BACE-43AC-4711-275C7D83724E}|SmartInventory.API\\SmartInventory.API.csproj|solutionrelative:smartinventory.api\\models\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84062B1B-BACE-43AC-4711-275C7D83724E}|SmartInventory.API\\SmartInventory.API.csproj|c:\\users\\administrator\\documents\\inventory-optimization-system\\smartinventory\\smartinventory.api\\models\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84062B1B-BACE-43AC-4711-275C7D83724E}|SmartInventory.API\\SmartInventory.API.csproj|solutionrelative:smartinventory.api\\models\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84062B1B-BACE-43AC-4711-275C7D83724E}|SmartInventory.API\\SmartInventory.API.csproj|c:\\users\\administrator\\documents\\inventory-optimization-system\\smartinventory\\smartinventory.api\\models\\recommendation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84062B1B-BACE-43AC-4711-275C7D83724E}|SmartInventory.API\\SmartInventory.API.csproj|solutionrelative:smartinventory.api\\models\\recommendation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84062B1B-BACE-43AC-4711-275C7D83724E}|SmartInventory.API\\SmartInventory.API.csproj|c:\\users\\administrator\\documents\\inventory-optimization-system\\smartinventory\\smartinventory.api\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84062B1B-BACE-43AC-4711-275C7D83724E}|SmartInventory.API\\SmartInventory.API.csproj|solutionrelative:smartinventory.api\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84062B1B-BACE-43AC-4711-275C7D83724E}|SmartInventory.API\\SmartInventory.API.csproj|c:\\users\\administrator\\documents\\inventory-optimization-system\\smartinventory\\smartinventory.api\\models\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84062B1B-BACE-43AC-4711-275C7D83724E}|SmartInventory.API\\SmartInventory.API.csproj|solutionrelative:smartinventory.api\\models\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84062B1B-BACE-43AC-4711-275C7D83724E}|SmartInventory.API\\SmartInventory.API.csproj|c:\\users\\administrator\\documents\\inventory-optimization-system\\smartinventory\\smartinventory.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{84062B1B-BACE-43AC-4711-275C7D83724E}|SmartInventory.API\\SmartInventory.API.csproj|solutionrelative:smartinventory.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84062B1B-BACE-43AC-4711-275C7D83724E}|SmartInventory.API\\SmartInventory.API.csproj|c:\\users\\administrator\\documents\\inventory-optimization-system\\smartinventory\\smartinventory.api\\controllers\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84062B1B-BACE-43AC-4711-275C7D83724E}|SmartInventory.API\\SmartInventory.API.csproj|solutionrelative:smartinventory.api\\controllers\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84062B1B-BACE-43AC-4711-275C7D83724E}|SmartInventory.API\\SmartInventory.API.csproj|c:\\users\\administrator\\documents\\inventory-optimization-system\\smartinventory\\smartinventory.api\\repositories\\salerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84062B1B-BACE-43AC-4711-275C7D83724E}|SmartInventory.API\\SmartInventory.API.csproj|solutionrelative:smartinventory.api\\repositories\\salerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84062B1B-BACE-43AC-4711-275C7D83724E}|SmartInventory.API\\SmartInventory.API.csproj|c:\\users\\administrator\\documents\\inventory-optimization-system\\smartinventory\\smartinventory.api\\interfaces\\isalerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84062B1B-BACE-43AC-4711-275C7D83724E}|SmartInventory.API\\SmartInventory.API.csproj|solutionrelative:smartinventory.api\\interfaces\\isalerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84062B1B-BACE-43AC-4711-275C7D83724E}|SmartInventory.API\\SmartInventory.API.csproj|c:\\users\\administrator\\documents\\inventory-optimization-system\\smartinventory\\smartinventory.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{84062B1B-BACE-43AC-4711-275C7D83724E}|SmartInventory.API\\SmartInventory.API.csproj|solutionrelative:smartinventory.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ImportController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\inventory-optimization-system\\SmartInventory\\SmartInventory.API\\Controllers\\ImportController.cs",
+              "RelativeDocumentMoniker": "SmartInventory.API\\Controllers\\ImportController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\inventory-optimization-system\\SmartInventory\\SmartInventory.API\\Controllers\\ImportController.cs",
+              "RelativeToolTip": "SmartInventory.API\\Controllers\\ImportController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAYwBoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T16:23:44.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SmartInventory.API.csproj",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\inventory-optimization-system\\SmartInventory\\SmartInventory.API\\SmartInventory.API.csproj",
+              "RelativeDocumentMoniker": "SmartInventory.API\\SmartInventory.API.csproj",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\inventory-optimization-system\\SmartInventory\\SmartInventory.API\\SmartInventory.API.csproj",
+              "RelativeToolTip": "SmartInventory.API\\SmartInventory.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-14T17:08:00.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IInventoryOptimizationService.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\inventory-optimization-system\\SmartInventory\\SmartInventory.API\\Interfaces\\IInventoryOptimizationService.cs",
+              "RelativeDocumentMoniker": "SmartInventory.API\\Interfaces\\IInventoryOptimizationService.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\inventory-optimization-system\\SmartInventory\\SmartInventory.API\\Interfaces\\IInventoryOptimizationService.cs",
+              "RelativeToolTip": "SmartInventory.API\\Interfaces\\IInventoryOptimizationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T09:09:37.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IFeatureEngineeringService.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\inventory-optimization-system\\SmartInventory\\SmartInventory.API\\Interfaces\\IFeatureEngineeringService.cs",
+              "RelativeDocumentMoniker": "SmartInventory.API\\Interfaces\\IFeatureEngineeringService.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\inventory-optimization-system\\SmartInventory\\SmartInventory.API\\Interfaces\\IFeatureEngineeringService.cs",
+              "RelativeToolTip": "SmartInventory.API\\Interfaces\\IFeatureEngineeringService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T09:42:56.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IDataCleaningService.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\inventory-optimization-system\\SmartInventory\\SmartInventory.API\\Interfaces\\IDataCleaningService.cs",
+              "RelativeDocumentMoniker": "SmartInventory.API\\Interfaces\\IDataCleaningService.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\inventory-optimization-system\\SmartInventory\\SmartInventory.API\\Interfaces\\IDataCleaningService.cs",
+              "RelativeToolTip": "SmartInventory.API\\Interfaces\\IDataCleaningService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-22T14:52:09.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InventoryOptimizationController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\inventory-optimization-system\\SmartInventory\\SmartInventory.API\\Controllers\\InventoryOptimizationController.cs",
+              "RelativeDocumentMoniker": "SmartInventory.API\\Controllers\\InventoryOptimizationController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\inventory-optimization-system\\SmartInventory\\SmartInventory.API\\Controllers\\InventoryOptimizationController.cs",
+              "RelativeToolTip": "SmartInventory.API\\Controllers\\InventoryOptimizationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAYwBcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T09:11:04.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FeatureEngineeringController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\inventory-optimization-system\\SmartInventory\\SmartInventory.API\\Controllers\\FeatureEngineeringController.cs",
+              "RelativeDocumentMoniker": "SmartInventory.API\\Controllers\\FeatureEngineeringController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\inventory-optimization-system\\SmartInventory\\SmartInventory.API\\Controllers\\FeatureEngineeringController.cs",
+              "RelativeToolTip": "SmartInventory.API\\Controllers\\FeatureEngineeringController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAYwBcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T09:45:03.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DataCleaningController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\inventory-optimization-system\\SmartInventory\\SmartInventory.API\\Controllers\\DataCleaningController.cs",
+              "RelativeDocumentMoniker": "SmartInventory.API\\Controllers\\DataCleaningController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\inventory-optimization-system\\SmartInventory\\SmartInventory.API\\Controllers\\DataCleaningController.cs",
+              "RelativeToolTip": "SmartInventory.API\\Controllers\\DataCleaningController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAYwBcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-22T14:53:50.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InventoryOptimizationService.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\inventory-optimization-system\\SmartInventory\\SmartInventory.API\\Services\\InventoryOptimizationService.cs",
+              "RelativeDocumentMoniker": "SmartInventory.API\\Services\\InventoryOptimizationService.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\inventory-optimization-system\\SmartInventory\\SmartInventory.API\\Services\\InventoryOptimizationService.cs",
+              "RelativeToolTip": "SmartInventory.API\\Services\\InventoryOptimizationService.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAYwEYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T09:10:15.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FeatureEngineeringService.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\inventory-optimization-system\\SmartInventory\\SmartInventory.API\\Services\\FeatureEngineeringService.cs",
+              "RelativeDocumentMoniker": "SmartInventory.API\\Services\\FeatureEngineeringService.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\inventory-optimization-system\\SmartInventory\\SmartInventory.API\\Services\\FeatureEngineeringService.cs",
+              "RelativeToolTip": "SmartInventory.API\\Services\\FeatureEngineeringService.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAYwBkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T09:10:25.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DataCleaningService.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\inventory-optimization-system\\SmartInventory\\SmartInventory.API\\Services\\DataCleaningService.cs",
+              "RelativeDocumentMoniker": "SmartInventory.API\\Services\\DataCleaningService.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\inventory-optimization-system\\SmartInventory\\SmartInventory.API\\Services\\DataCleaningService.cs",
+              "RelativeToolTip": "SmartInventory.API\\Services\\DataCleaningService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAYwBgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-22T14:53:00.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CsvImportService.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\inventory-optimization-system\\SmartInventory\\SmartInventory.API\\Services\\CsvImportService.cs",
+              "RelativeDocumentMoniker": "SmartInventory.API\\Services\\CsvImportService.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\inventory-optimization-system\\SmartInventory\\SmartInventory.API\\Services\\CsvImportService.cs",
+              "RelativeToolTip": "SmartInventory.API\\Services\\CsvImportService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAYwBwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T16:16:24.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ICsvImportService.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\inventory-optimization-system\\SmartInventory\\SmartInventory.API\\Interfaces\\ICsvImportService.cs",
+              "RelativeDocumentMoniker": "SmartInventory.API\\Interfaces\\ICsvImportService.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\inventory-optimization-system\\SmartInventory\\SmartInventory.API\\Interfaces\\ICsvImportService.cs",
+              "RelativeToolTip": "SmartInventory.API\\Interfaces\\ICsvImportService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T16:17:09.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "InventoryRecommendationDto.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\inventory-optimization-system\\SmartInventory\\SmartInventory.API\\DTOs\\InventoryRecommendationDto.cs",
+              "RelativeDocumentMoniker": "SmartInventory.API\\DTOs\\InventoryRecommendationDto.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\inventory-optimization-system\\SmartInventory\\SmartInventory.API\\DTOs\\InventoryRecommendationDto.cs",
+              "RelativeToolTip": "SmartInventory.API\\DTOs\\InventoryRecommendationDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T09:08:45.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FeatureEngineeringDto.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\inventory-optimization-system\\SmartInventory\\SmartInventory.API\\DTOs\\FeatureEngineeringDto.cs",
+              "RelativeDocumentMoniker": "SmartInventory.API\\DTOs\\FeatureEngineeringDto.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\inventory-optimization-system\\SmartInventory\\SmartInventory.API\\DTOs\\FeatureEngineeringDto.cs",
+              "RelativeToolTip": "SmartInventory.API\\DTOs\\FeatureEngineeringDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T09:42:08.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CleaningResultDto.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\inventory-optimization-system\\SmartInventory\\SmartInventory.API\\DTOs\\CleaningResultDto.cs",
+              "RelativeDocumentMoniker": "SmartInventory.API\\DTOs\\CleaningResultDto.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\inventory-optimization-system\\SmartInventory\\SmartInventory.API\\DTOs\\CleaningResultDto.cs",
+              "RelativeToolTip": "SmartInventory.API\\DTOs\\CleaningResultDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-22T14:51:33.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SalesCsvDto.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\inventory-optimization-system\\SmartInventory\\SmartInventory.API\\DTOs\\SalesCsvDto.cs",
+              "RelativeDocumentMoniker": "SmartInventory.API\\DTOs\\SalesCsvDto.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\inventory-optimization-system\\SmartInventory\\SmartInventory.API\\DTOs\\SalesCsvDto.cs",
+              "RelativeToolTip": "SmartInventory.API\\DTOs\\SalesCsvDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T03:48:50.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\inventory-optimization-system\\SmartInventory\\SmartInventory.API\\DTOs\\ProductDto.cs",
+              "RelativeDocumentMoniker": "SmartInventory.API\\DTOs\\ProductDto.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\inventory-optimization-system\\SmartInventory\\SmartInventory.API\\DTOs\\ProductDto.cs",
+              "RelativeToolTip": "SmartInventory.API\\DTOs\\ProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T09:08:22.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\inventory-optimization-system\\SmartInventory\\SmartInventory.API\\Program.cs",
+              "RelativeDocumentMoniker": "SmartInventory.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\inventory-optimization-system\\SmartInventory\\SmartInventory.API\\Program.cs",
+              "RelativeToolTip": "SmartInventory.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAHiAwB8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T09:17:55.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IDashboardService.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\inventory-optimization-system\\SmartInventory\\SmartInventory.API\\Interfaces\\IDashboardService.cs",
+              "RelativeDocumentMoniker": "SmartInventory.API\\Interfaces\\IDashboardService.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\inventory-optimization-system\\SmartInventory\\SmartInventory.API\\Interfaces\\IDashboardService.cs",
+              "RelativeToolTip": "SmartInventory.API\\Interfaces\\IDashboardService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T16:09:54.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SalesDto.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\inventory-optimization-system\\SmartInventory\\SmartInventory.API\\DTOs\\SalesDto.cs",
+              "RelativeDocumentMoniker": "SmartInventory.API\\DTOs\\SalesDto.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\inventory-optimization-system\\SmartInventory\\SmartInventory.API\\DTOs\\SalesDto.cs",
+              "RelativeToolTip": "SmartInventory.API\\DTOs\\SalesDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T09:08:34.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\inventory-optimization-system\\SmartInventory\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\inventory-optimization-system\\SmartInventory\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-07-15T17:28:26.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\inventory-optimization-system\\SmartInventory\\SmartInventory.API\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "SmartInventory.API\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\inventory-optimization-system\\SmartInventory\\SmartInventory.API\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "SmartInventory.API\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T16:11:51.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DashboardService.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\inventory-optimization-system\\SmartInventory\\SmartInventory.API\\Services\\DashboardService.cs",
+              "RelativeDocumentMoniker": "SmartInventory.API\\Services\\DashboardService.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\inventory-optimization-system\\SmartInventory\\SmartInventory.API\\Services\\DashboardService.cs",
+              "RelativeToolTip": "SmartInventory.API\\Services\\DashboardService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T16:10:26.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DashboardDto.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\inventory-optimization-system\\SmartInventory\\SmartInventory.API\\DTOs\\DashboardDto.cs",
+              "RelativeDocumentMoniker": "SmartInventory.API\\DTOs\\DashboardDto.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\inventory-optimization-system\\SmartInventory\\SmartInventory.API\\DTOs\\DashboardDto.cs",
+              "RelativeToolTip": "SmartInventory.API\\DTOs\\DashboardDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T16:09:21.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\inventory-optimization-system\\SmartInventory\\SmartInventory.API\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "SmartInventory.API\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\inventory-optimization-system\\SmartInventory\\SmartInventory.API\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "SmartInventory.API\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T09:10:46.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DatabaseSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\inventory-optimization-system\\SmartInventory\\SmartInventory.API\\Seed\\DatabaseSeeder.cs",
+              "RelativeDocumentMoniker": "SmartInventory.API\\Seed\\DatabaseSeeder.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\inventory-optimization-system\\SmartInventory\\SmartInventory.API\\Seed\\DatabaseSeeder.cs",
+              "RelativeToolTip": "SmartInventory.API\\Seed\\DatabaseSeeder.cs",
+              "ViewState": "AgIAAKcAAAAAAAAAAAAUwLAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T14:26:54.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\inventory-optimization-system\\SmartInventory\\SmartInventory.API\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "SmartInventory.API\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\inventory-optimization-system\\SmartInventory\\SmartInventory.API\\Services\\ProductService.cs",
+              "RelativeToolTip": "SmartInventory.API\\Services\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T14:29:19.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\inventory-optimization-system\\SmartInventory\\SmartInventory.API\\Interfaces\\IProductService.cs",
+              "RelativeDocumentMoniker": "SmartInventory.API\\Interfaces\\IProductService.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\inventory-optimization-system\\SmartInventory\\SmartInventory.API\\Interfaces\\IProductService.cs",
+              "RelativeToolTip": "SmartInventory.API\\Interfaces\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T14:28:55.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\inventory-optimization-system\\SmartInventory\\SmartInventory.API\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "SmartInventory.API\\Middleware\\ExceptionMiddleware.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\inventory-optimization-system\\SmartInventory\\SmartInventory.API\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "SmartInventory.API\\Middleware\\ExceptionMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T14:25:27.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\inventory-optimization-system\\SmartInventory\\SmartInventory.API\\Interfaces\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "SmartInventory.API\\Interfaces\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\inventory-optimization-system\\SmartInventory\\SmartInventory.API\\Interfaces\\IProductRepository.cs",
+              "RelativeToolTip": "SmartInventory.API\\Interfaces\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T09:09:13.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ProductValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\inventory-optimization-system\\SmartInventory\\SmartInventory.API\\Validators\\ProductValidator.cs",
+              "RelativeDocumentMoniker": "SmartInventory.API\\Validators\\ProductValidator.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\inventory-optimization-system\\SmartInventory\\SmartInventory.API\\Validators\\ProductValidator.cs",
+              "RelativeToolTip": "SmartInventory.API\\Validators\\ProductValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T14:24:08.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\inventory-optimization-system\\SmartInventory\\SmartInventory.API\\Mappings\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "SmartInventory.API\\Mappings\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\inventory-optimization-system\\SmartInventory\\SmartInventory.API\\Mappings\\MappingProfile.cs",
+              "RelativeToolTip": "SmartInventory.API\\Mappings\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T14:22:35.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\inventory-optimization-system\\SmartInventory\\SmartInventory.API\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "SmartInventory.API\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\inventory-optimization-system\\SmartInventory\\SmartInventory.API\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "SmartInventory.API\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T09:09:51.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\inventory-optimization-system\\SmartInventory\\SmartInventory.API\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "SmartInventory.API\\Repositories\\Repository.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\inventory-optimization-system\\SmartInventory\\SmartInventory.API\\Repositories\\Repository.cs",
+              "RelativeToolTip": "SmartInventory.API\\Repositories\\Repository.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAA8wC8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T14:00:09.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\inventory-optimization-system\\SmartInventory\\SmartInventory.API\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "SmartInventory.API\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\inventory-optimization-system\\SmartInventory\\SmartInventory.API\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "SmartInventory.API\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T13:59:35.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Supplier.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\inventory-optimization-system\\SmartInventory\\SmartInventory.API\\Models\\Supplier.cs",
+              "RelativeDocumentMoniker": "SmartInventory.API\\Models\\Supplier.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\inventory-optimization-system\\SmartInventory\\SmartInventory.API\\Models\\Supplier.cs",
+              "RelativeToolTip": "SmartInventory.API\\Models\\Supplier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T09:37:12.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Store.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\inventory-optimization-system\\SmartInventory\\SmartInventory.API\\Models\\Store.cs",
+              "RelativeDocumentMoniker": "SmartInventory.API\\Models\\Store.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\inventory-optimization-system\\SmartInventory\\SmartInventory.API\\Models\\Store.cs",
+              "RelativeToolTip": "SmartInventory.API\\Models\\Store.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T09:37:42.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Sale.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\inventory-optimization-system\\SmartInventory\\SmartInventory.API\\Models\\Sale.cs",
+              "RelativeDocumentMoniker": "SmartInventory.API\\Models\\Sale.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\inventory-optimization-system\\SmartInventory\\SmartInventory.API\\Models\\Sale.cs",
+              "RelativeToolTip": "SmartInventory.API\\Models\\Sale.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAuwBMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T09:38:31.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\inventory-optimization-system\\SmartInventory\\SmartInventory.API\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "SmartInventory.API\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\inventory-optimization-system\\SmartInventory\\SmartInventory.API\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "SmartInventory.API\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA6wG0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T09:08:57.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Recommendation.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\inventory-optimization-system\\SmartInventory\\SmartInventory.API\\Models\\Recommendation.cs",
+              "RelativeDocumentMoniker": "SmartInventory.API\\Models\\Recommendation.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\inventory-optimization-system\\SmartInventory\\SmartInventory.API\\Models\\Recommendation.cs",
+              "RelativeToolTip": "SmartInventory.API\\Models\\Recommendation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T09:38:49.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\inventory-optimization-system\\SmartInventory\\SmartInventory.API\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "SmartInventory.API\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\inventory-optimization-system\\SmartInventory\\SmartInventory.API\\Models\\Product.cs",
+              "RelativeToolTip": "SmartInventory.API\\Models\\Product.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwBUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T09:06:23.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\inventory-optimization-system\\SmartInventory\\SmartInventory.API\\Models\\Inventory.cs",
+              "RelativeDocumentMoniker": "SmartInventory.API\\Models\\Inventory.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\inventory-optimization-system\\SmartInventory\\SmartInventory.API\\Models\\Inventory.cs",
+              "RelativeToolTip": "SmartInventory.API\\Models\\Inventory.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAuwBMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T09:38:01.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\inventory-optimization-system\\SmartInventory\\SmartInventory.API\\appsettings.json",
+              "RelativeDocumentMoniker": "SmartInventory.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\inventory-optimization-system\\SmartInventory\\SmartInventory.API\\appsettings.json",
+              "RelativeToolTip": "SmartInventory.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-15T09:17:03.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "SalesController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\inventory-optimization-system\\SmartInventory\\SmartInventory.API\\Controllers\\SalesController.cs",
+              "RelativeDocumentMoniker": "SmartInventory.API\\Controllers\\SalesController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\inventory-optimization-system\\SmartInventory\\SmartInventory.API\\Controllers\\SalesController.cs",
+              "RelativeToolTip": "SmartInventory.API\\Controllers\\SalesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T09:10:56.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "SaleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\inventory-optimization-system\\SmartInventory\\SmartInventory.API\\Repositories\\SaleRepository.cs",
+              "RelativeDocumentMoniker": "SmartInventory.API\\Repositories\\SaleRepository.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\inventory-optimization-system\\SmartInventory\\SmartInventory.API\\Repositories\\SaleRepository.cs",
+              "RelativeToolTip": "SmartInventory.API\\Repositories\\SaleRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T09:10:01.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ISaleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\inventory-optimization-system\\SmartInventory\\SmartInventory.API\\Interfaces\\ISaleRepository.cs",
+              "RelativeDocumentMoniker": "SmartInventory.API\\Interfaces\\ISaleRepository.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\inventory-optimization-system\\SmartInventory\\SmartInventory.API\\Interfaces\\ISaleRepository.cs",
+              "RelativeToolTip": "SmartInventory.API\\Interfaces\\ISaleRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T09:09:27.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\inventory-optimization-system\\SmartInventory\\SmartInventory.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "SmartInventory.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\inventory-optimization-system\\SmartInventory\\SmartInventory.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "SmartInventory.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAQwA8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-14T16:06:58.396Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
