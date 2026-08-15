@@ -8,7 +8,6 @@ using SmartInventory.API.Repositories;
 using SmartInventory.API.Seed;
 using SmartInventory.API.Services;
 using SmartInventory.API.Validators;
-using SmartInventory.API.Seed;
 using SmartInventory.API.DTOs;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -37,7 +36,15 @@ builder.Services.AddAutoMapper(typeof(MappingProfile));
 builder.Services.AddValidatorsFromAssemblyContaining<ProductValidator>();
 builder.Services.AddScoped<IDashboardService, DashboardService>();
 builder.Services.AddScoped<ICsvImportService, CsvImportService>();
-
+builder.Services.AddScoped<IDataCleaningService, DataCleaningService>();
+builder.Services.AddScoped<IFeatureEngineeringService, FeatureEngineeringService>();
+builder.Services.AddScoped<IInventoryOptimizationService, InventoryOptimizationService>();
+builder.Services.AddHttpClient<IPythonPredictionService, PythonPredictionService>(
+    client =>
+    {
+        client.BaseAddress = new Uri("http://127.0.0.1:5000/");
+        client.Timeout = TimeSpan.FromSeconds(30);
+    });
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

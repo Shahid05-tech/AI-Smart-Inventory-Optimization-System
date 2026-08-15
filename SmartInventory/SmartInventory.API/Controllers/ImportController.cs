@@ -4,7 +4,7 @@ using SmartInventory.API.Interfaces;
 namespace SmartInventory.API.Controllers;
 
 [ApiController]
-[Route("api/import")]
+[Route("api/[controller]")]
 public class ImportController : ControllerBase
 {
     private readonly ICsvImportService _csvService;
@@ -14,14 +14,13 @@ public class ImportController : ControllerBase
         _csvService = csvService;
     }
 
-    [HttpGet]
-    public async Task<IActionResult> Import()
+    [HttpPost]
+    public async Task<IActionResult> Import(IFormFile file)
     {
-        var filePath = Path.Combine(
-        Directory.GetCurrentDirectory(),
-        "Imports",
-        "sales.csv");
-        var data = await _csvService.ImportSalesAsync(filePath);
+        if (file == null || file.Length == 0)
+            return BadRequest("No file uploaded.");
+
+        var data = await _csvService.ImportSalesAsync(file);
 
         return Ok(data);
     }

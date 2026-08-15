@@ -1,25 +1,26 @@
 ﻿using CsvHelper;
 using CsvHelper.Configuration;
+using Microsoft.AspNetCore.Http;
 using SmartInventory.API.DTOs;
 using SmartInventory.API.Interfaces;
-using System.Formats.Asn1;
 using System.Globalization;
 
 namespace SmartInventory.API.Services;
 
 public class CsvImportService : ICsvImportService
 {
-    public async Task<List<SalesCsvDto>> ImportSalesAsync(string filePath)
+    public async Task<List<SalesCsvDto>> ImportSalesAsync(IFormFile file)
     {
-        using var reader = new StreamReader(filePath);
+        using var stream = file.OpenReadStream();
+        using var reader = new StreamReader(stream);
 
-        using var csv = new CsvReader(
-            reader,
-            new CsvConfiguration(CultureInfo.InvariantCulture)
-            {
-                HeaderValidated = null,
-                MissingFieldFound = null
-            });
+        var config = new CsvConfiguration(CultureInfo.InvariantCulture)
+        {
+            HeaderValidated = null,
+            MissingFieldFound = null
+        };
+
+        using var csv = new CsvReader(reader, config);
 
         var records = csv.GetRecords<SalesCsvDto>().ToList();
 
